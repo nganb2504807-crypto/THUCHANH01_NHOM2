@@ -21,5 +21,10 @@ NGUỒN: Google Bard (Gemini)
 # Phần 3: Ứng dụng AI trong Học tập
 * Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số
 *  Phân tích cách sử dụng AI theo nguyên tắc đạo đức.
-NGUỒN: Canva AI
+NGUỒN: Canva AI, Google Bard (Gemini)
 # Infographic: ỨNg dụng AI trong Công Nghệ Thông Tin
+- Trí tuệ nhân tạo
+- Hỗ trợ lập trình
+- An Ninh Mạng(Cybersecurity)
+- Quản lí % phân tích dữ liệu(big data)
+- Quản trị hệ thống % điện toán đám mây
