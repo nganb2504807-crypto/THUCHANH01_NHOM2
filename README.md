@@ -13,12 +13,12 @@
 * Sử dụng công cụ hệ thống (Task Manager trên Windows hoặc System Information) để kiểm tra thông số phần cứng của máy tính.
 * Sử dụng AI để hỗ trợ cài đặt và cấu hình trình duyệt Chrome hoặc phần mềm Notepad++.
 * Lưu file Python (.py) và ảnh chụp màn hình Notepad++
-- NGUỒN: Google Bard (Gemini)
+NGUỒN: Google Bard (Gemini)
 # PHẦN 2: Giải quyết Sự cố Kỹ thuật Đơn giản với AI
 *  Sử dụng AI để tìm cách khắc phục sự cố Wi-Fi mất kết nối trên Windows 10
 * Sử dụng AI để khắc phục lỗi “Notepad++ không mở được file Python lớn”
-- NGUỒN: Google Bard (Gemini)
+NGUỒN: Google Bard (Gemini)
 # Phần 3: Ứng dụng AI trong Học tập
 * Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số
 *  Phân tích cách sử dụng AI theo nguyên tắc đạo đức.
-- NGUỒN: Canva AI
+NGUỒN: Canva AI
