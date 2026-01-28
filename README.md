@@ -21,6 +21,3 @@
 # Phần 3: Ứng dụng AI trong Học tập
 • Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số
 • Phân tích cách sử dụng AI theo nguyên tắc đạo đức.
-
-• 
-
